@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Horacio", "Horacio\Horacio.csproj", "{39332952-3821-4985-872B-BD048BF1A8B8}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Pruebatt", "Pruebatt\Pruebatt.vbproj", "{247C885B-F8F9-41E6-8612-95BE1463092E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pruebatt2", "Pruebatt2\Pruebatt2.csproj", "{BD5B647B-7960-4B47-BAEE-9234C49132BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39332952-3821-4985-872B-BD048BF1A8B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39332952-3821-4985-872B-BD048BF1A8B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39332952-3821-4985-872B-BD048BF1A8B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39332952-3821-4985-872B-BD048BF1A8B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{247C885B-F8F9-41E6-8612-95BE1463092E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{247C885B-F8F9-41E6-8612-95BE1463092E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{247C885B-F8F9-41E6-8612-95BE1463092E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{247C885B-F8F9-41E6-8612-95BE1463092E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD5B647B-7960-4B47-BAEE-9234C49132BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD5B647B-7960-4B47-BAEE-9234C49132BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD5B647B-7960-4B47-BAEE-9234C49132BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD5B647B-7960-4B47-BAEE-9234C49132BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6307164E-71A4-4D5D-8545-475C1E84AC87}
+	EndGlobalSection
+EndGlobal
